@@ -113,7 +113,26 @@ span {
    
 }
 
+main img{
+    max-width: 100%;
+}
 
+main img.pequena{
+    min-width: 320px;
+    display: block;
+    margin:auto;
+}
+
+img {
+    border-radius: 15px;
+    box-shadow: 0px 3px 15px 0px rgba(12, 4, 4, 0.405);
+    transition: all 0.3s ease;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
 
 
 
